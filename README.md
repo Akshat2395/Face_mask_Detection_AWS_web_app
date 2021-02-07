@@ -1,10 +1,10 @@
 # Face_mask_Detection_AWS_web_app
 
-**NOTE** - This project was deployed on an AWS EC2 instance which is no longer accessible.
+**NOTE** - This project was deployed on an AWS EC2 instance which is no longer available now.
 
 **Please have a look at the documentation for more details about the project**
 
-**The documentation provides a step-by-step guide to how you can create and run an AWS EC2 instance and access the web application. The report further discusses about the functionality of the app**
+**The documentation provides a step-by-step guide to how you can create and run an AWS EC2 instance and access the web application. The report further discusses about the functionality and features of the web app.**
 
 
 ## Objective
